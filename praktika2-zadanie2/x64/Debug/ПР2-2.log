@@ -1,0 +1,5 @@
+﻿  ПР2-2.cpp
+C:\Users\myako\OneDrive\Desktop\Учеба\1 курс\Индустриальное программирование\ПР2\ПР2-2\ПР2-2.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\myako\OneDrive\Desktop\Учеба\1 курс\Индустриальное программирование\ПР2\ПР2-2\classification.h(34,24): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\myako\OneDrive\Desktop\Учеба\1 курс\Индустриальное программирование\ПР2\ПР2-2\classification.h(50,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ПР2-2.vcxproj -> C:\Users\myako\OneDrive\Desktop\Учеба\1 курс\Индустриальное программирование\ПР2\ПР2-2\x64\Debug\ПР2-2.exe
