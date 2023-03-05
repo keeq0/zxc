@@ -34,8 +34,8 @@ public:
 
 	void show() {
 		if (a == 0) {
-			cout << "ִנמבü: " << 0;
+			cout << 0;
 		}
-		else cout << "ִנמבü: " << a << "/" << b;
+		else cout << a << "/" << b;
 	}
 };
