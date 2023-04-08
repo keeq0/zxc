@@ -1,0 +1,4 @@
+﻿  template_code.cpp
+C:\Users\myako\OneDrive\Desktop\Учеба\1 курс\Индустриальное программирование\ПР\zxc\praktika9\template_code\template_code.cpp(40,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\myako\OneDrive\Desktop\Учеба\1 курс\Индустриальное программирование\ПР\zxc\praktika9\template_code\template_code.cpp(46,35): warning C4305: аргумент: усечение из "double" в "float"
+  template_code.vcxproj -> C:\Users\myako\OneDrive\Desktop\Учеба\1 курс\Индустриальное программирование\ПР\zxc\praktika9\template_code\x64\Debug\template_code.exe
