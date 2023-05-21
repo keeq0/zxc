@@ -105,7 +105,7 @@ void Type8::Get_answer_podbor()
 	double x = -20;
 	for (double i = -20; i < 20.01; i = i + 0.01) {
 		if (i != 0) {
-			double temp = abs(0 - A * i * i - B * (i));
+			double temp = abs(0 - A * (i) * (i) - B * (i));
 			if (temp < min) {
 				min = temp;
 				x = i;
